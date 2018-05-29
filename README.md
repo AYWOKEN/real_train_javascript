@@ -1,1 +1,2 @@
-# real_train_javascript
+# Bases of Javascript
+
