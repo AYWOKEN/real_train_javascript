@@ -1,7 +1,5 @@
 # Bases of Javascript
 
-Actually, we have :
-
 
 - Arithmetic
 - Arrays
